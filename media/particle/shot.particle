@@ -1,0 +1,18 @@
+particle_system MyShot
+{
+	material Examples/Flare
+	particle_width 5
+	particle_height 5
+	quota 1
+	billboard_type point
+	emitter Point
+	{
+		emission_rate 5
+		direction 0 -1 0
+		position 0 -31 0
+		velocity 500
+		time_to_live 1
+		duration 0
+		colour 1 1 1 1
+	}
+}
