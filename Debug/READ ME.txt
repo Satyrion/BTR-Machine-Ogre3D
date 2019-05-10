@@ -1,0 +1,11 @@
+Управление башней и пушкой с помошью - NUMPAD8, NUMPAD2, NUMPAD4, NUMPAD6.
+Выстрел - NUMPAD5.
+Езда с помощью стрелок.
+Управление камеры - мышь и W,S,A,D.
+
+/////////
+
+Control tower and gun using - NUMPAD8, NUMPAD2, NUMPAD4, NUMPAD6.
+Shot - NUMPAD5
+Movement is carried out by arrows.
+Camera control - mouse move and W, S, A, D.
